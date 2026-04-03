@@ -70,14 +70,22 @@ The goal is to uncover patterns in trading activity and derive actionable insigh
 
 Project Structure
 trader-sentiment-analysis/
+
 │── data/
+
 │ ├── fear_greed_index.csv
+
 │ └── historical_data.csv
+
 │
 │── notebook.ipynb
+
 │── analysis.py
+
 │── README.md
+
 │── requirements.txt
+
 
 
 ---
