@@ -61,6 +61,7 @@ The goal is to uncover patterns in trading activity and derive actionable insigh
 - Traders overtrade during Greed periods  
 - Fear markets promote disciplined and consistent trading  
 - Market sentiment strongly influences trader psychology  
+<img width="594" height="263" alt="Screenshot 2026-04-03 112615" src="https://github.com/user-attachments/assets/36f4f44d-52ac-4ba4-8ad3-17fbeffb6ca7" />
 
 ---
 
