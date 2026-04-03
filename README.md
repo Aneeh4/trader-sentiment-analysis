@@ -49,7 +49,7 @@ The goal is to uncover patterns in trading activity and derive actionable insigh
 - High vs Low position size  
 - Frequent vs Infrequent traders  
 - Consistent vs Inconsistent traders  
-<img width="594" height="263" alt="Screenshot 2026-04-03 112615" src="https://github.com/user-attachments/assets/28c774fb-c9b9-4878-81b8-108f8cad9ac3" />
+<img width="993" height="760" alt="Screenshot 2026-04-03 112529" src="https://github.com/user-attachments/assets/ba66c730-9788-461d-a9ba-d376e39f9fc7" />
 
 ---
  Key Insights  
