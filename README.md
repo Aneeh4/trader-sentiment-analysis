@@ -87,5 +87,5 @@ How to Run
 pip install -r requirements.txt
 python analysis.py
 
-<img width="993" height="760" alt="Screenshot 2026-04-03 112529" src="https://github.com/user-attachments/assets/8167ae04-191d-4de0-a67e-36e9d5e54961" />
+<img width="840" height="693" alt="Screenshot 2026-04-03 112601" src="https://github.com/user-attachments/assets/9ebdceb0-d61f-46e7-b551-f8d3d6838ad8" />
 
