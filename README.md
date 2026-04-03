@@ -51,6 +51,7 @@ The goal is to uncover patterns in trading activity and derive actionable insigh
 - Consistent vs Inconsistent traders  
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/66e6a6c8-89c0-47e1-b498-b5e7477b3e19" />
 <img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/593632d0-0e1a-4bfa-9539-b0cd591bae1b" />
+<img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/e7802acc-9921-4a0f-a06a-acd9645d276c" />
 <img width="640" height="480" alt="Figure_4" src="https://github.com/user-attachments/assets/1070abd5-b5fc-49da-909a-086f87b3ed14" />
 
 ---
